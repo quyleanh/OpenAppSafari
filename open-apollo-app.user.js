@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Open Reddit App
+// @name         Open Apollo App
 // @version      1.0.0
 // @author       beebeo
 // @match        *://*.reddit.com/*

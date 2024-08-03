@@ -23,8 +23,6 @@ function redirect () {
         var tw = `twitter://status?id=${locationArr[0]}`
         window.location.href = tw
     }
-
-    !locationArr && requestAnimationFrame(redirect)
 }
 
 redirect()
