@@ -6,12 +6,12 @@ Open some favorite link from Safari to your sideloaded apps. I just custom a bit
 2. Open **Userscript** app then press **Set userscripts directory** to set location to save `.user.js` files
 3. Enable userscripts on your iPhone in Settings > Safari > Extensions
 4. Open the following links in Safari. (Depending which app you want to use, click to that link)
-* [Apollo](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-apollo-app.user.js)
-* [Instagram](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-instagram-app.user.js)
-* [Reddit](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-reddit-app.user.js)
-* [Spotify](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-spotify-app.user.js)
-* [Tiktok](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-tiktok-app.user.js)
-* [Twitter/X](https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-twitter-app.user.js)
+* [Apollo](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-apollo-app.user.js)
+* [Instagram](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-instagram-app.user.js)
+* [Reddit](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-reddit-app.user.js)
+* [Spotify](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-spotify-app.user.js)
+* [Tiktok](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-tiktok-app.user.js)
+* [Twitter/X](https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-twitter-app.user.js)
 
 ## Credit
 

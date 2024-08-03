@@ -3,8 +3,8 @@
 // @version      1.0.2
 // @author       beebeo
 // @match        *://*.tiktok.com/*
-// @downloadURL  https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-tiktok-app.user.js
-// @updateURL    https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-tiktok-app.user.js
+// @downloadURL  https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-tiktok-app.user.js
+// @updateURL    https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-tiktok-app.user.js
 // @homepage     https://github.com/quyleanh/OpenInAppSafari
 // ==/UserScript==
 

@@ -3,8 +3,8 @@
 // @version      1.0.0
 // @author       beebeo
 // @match        *://*.spotify.com/*
-// @downloadURL  https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-spotify-app.user.js
-// @updateURL    https://raw.githubusercontent.com/quyleanh/zeranoe-ffmpeg-mirror/main/open-spotify-app.user.js
+// @downloadURL  https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-spotify-app.user.js
+// @updateURL    https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-spotify-app.user.js
 // @homepage     https://github.com/quyleanh/OpenInAppSafari
 // ==/UserScript==
 
