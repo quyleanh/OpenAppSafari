@@ -3,7 +3,7 @@
 // @version      1.0.0
 // @author       beebeo
 // @match        *://*.twitter.com/*
-// @match        *://x.com/*
+// @match        *://*.x.com/*
 // @downloadURL  https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-twitter-app.user.js
 // @updateURL    https://raw.githubusercontent.com/quyleanh/OpenInAppSafari/main/open-twitter-app.user.js
 // @homepage     https://github.com/quyleanh/OpenInAppSafari
