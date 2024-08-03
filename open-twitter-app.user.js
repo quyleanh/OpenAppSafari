@@ -10,11 +10,21 @@
 // ==/UserScript==
 
 function redirect () {
-    let type = document.querySelector('[property="og:type"]')?.getAttribute('content')
-    if (type === 'article') window.location.href = 'twitter://tweet?id=' + location.pathname.split('/').at(-1)
-    if (type === 'profile') window.location.href = 'twitter://user?screen_name=' + location.pathname.split('/').at(-1)
+    var locationArr = window.location.pathname.split("/").reverse()
+    if (locationArr[0] && !locationArr[1]) {
+        var tw;
+        if (locationArr[0] === "home") {
+            tw = `twitter://timeline`
+        } else {
+            tw = `twitter://user?screen_name=${locationArr[0]}`
+        }
+        window.location.href = tw
+    } else if (locationArr[0] && locationArr[1] === "status") { // tweet
+        var tw = `twitter://status?id=${locationArr[0]}`
+        window.location.href = tw
+    }
 
-    !type && requestAnimationFrame(redirect)
+    !locationArr && requestAnimationFrame(redirect)
 }
 
 redirect()
